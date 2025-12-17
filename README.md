@@ -111,6 +111,9 @@ Reunir e flexibilizar a consulta de dados contábeis e indicadores financeiros p
   <img src="./Imagens/Diagrama Topologia-Topologia-Topologia.drawio (1).png" alt="Topologia Dados CVM" width="900">
 </p>
 
+
+### 4.2. Diagrama de Classes
+
 ---
 
 ## Contato  
