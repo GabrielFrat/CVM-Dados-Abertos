@@ -112,7 +112,7 @@ Reunir e flexibilizar a consulta de dados contábeis e indicadores financeiros p
 ---
 
 ## Contato  
-Para dúvidas ou sugestões, entre em contato com o desenvolvedor do projeto.
+Para dúvidas, sugestões ou caso queira testar a API, entre em contato com gabrierfrat@gmail.com;
 
 ---
 
