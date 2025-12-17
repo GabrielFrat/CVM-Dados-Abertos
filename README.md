@@ -107,7 +107,9 @@ Reunir e flexibilizar a consulta de dados contábeis e indicadores financeiros p
 ## Diagramas
 
 ### 4.1. Topologia da API  
-*(Inserir aqui diagramas se disponível)*
+<p align="center">
+  <img src="./Imagens/Diagrama Topologia-Topologia-Topologia.drawio (1).png" alt="Topologia Dados CVM" width="900">
+</p>
 
 ---
 
