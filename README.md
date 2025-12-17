@@ -80,7 +80,7 @@ Reunir e flexibilizar a consulta de dados contábeis e indicadores financeiros p
 - **CSU002**: Consulta de indicadores financeiros específicos, como ROA, ROE, PL, por período anual ou trimestral.
 
 ### 3.2. Regras de Negócio  
-*(Não incluídas neste README conforme solicitado)*
+*(Não incluídas neste README)*
 
 ### 3.3. Requisitos Funcionais  
 | Nº   | Descrição                                                    | Caso de Uso |
